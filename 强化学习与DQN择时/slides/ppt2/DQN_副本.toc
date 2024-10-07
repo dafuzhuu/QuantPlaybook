@@ -1,0 +1,5 @@
+\beamer@sectionintoc {1}{WISERCLUB分享内容}{2}{0}{1}
+\beamer@sectionintoc {2}{机器学习的分类}{4}{0}{2}
+\beamer@sectionintoc {3}{强化学习基本概念}{7}{0}{3}
+\beamer@sectionintoc {4}{DQN与Q-learning}{18}{0}{4}
+\beamer@sectionintoc {5}{研报复现}{25}{0}{5}
